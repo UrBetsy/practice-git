@@ -7,5 +7,6 @@
 
 // foo();
 wwww
+nnnn
 var a='a  b   c';
 console.log(a.split(/\s+/g)
